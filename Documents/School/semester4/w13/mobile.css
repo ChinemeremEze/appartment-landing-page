@@ -1,0 +1,14 @@
+/* mobile.css*/
+@media screen and (max-width:48em)
+{
+	
+	nav a{
+		display:block;
+	}
+	header{
+		display:none;
+	}
+	nav span{
+		display:none;
+	}
+}
